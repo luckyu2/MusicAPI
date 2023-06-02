@@ -9,10 +9,10 @@
     "网易云音乐",
     "网易云",
     "音乐",
-    "网易云音乐nodejs",
-    "尚硅谷"
+    "网易云音乐的nodejs 版 API",
+    "code"
   ],
-  "author": "zhiyong",
+  "author": "lcukyu2",
   "dependencies": {
     "apicache": "^1.5.2",
     "express": "^4.17.1",
